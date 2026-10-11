@@ -1,2 +1,2 @@
-Hello Amit yadav 
-I am learning git.
+print("Hello Amit Yadav")
+print ("I am learning git.")
